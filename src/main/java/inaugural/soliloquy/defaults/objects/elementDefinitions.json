@@ -1,0 +1,42 @@
+[
+  {
+    "id": "combustion",
+    "name": "Combustion",
+    "imageAssetSetId": "combustionImageAssetSetId"
+  },
+  {
+    "id": "steel",
+    "name": "Steel",
+    "imageAssetSetId": "steelImageAssetSetId"
+  },
+  {
+    "id": "terra",
+    "name": "Terra",
+    "imageAssetSetId": "terraImageAssetSetId"
+  },
+  {
+    "id": "ice",
+    "name": "Ice",
+    "imageAssetSetId": "iceImageAssetSetId"
+  },
+  {
+    "id": "aqua",
+    "name": "Aqua",
+    "imageAssetSetId": "aquaImageAssetSetId"
+  },
+  {
+    "id": "flora",
+    "name": "Flora",
+    "imageAssetSetId": "floraImageAssetSetId"
+  },
+  {
+    "id": "aero",
+    "name": "Aero",
+    "imageAssetSetId": "aeroImageAssetSetId"
+  },
+  {
+    "id": "current",
+    "name": "Current",
+    "imageAssetSetId": "currentImageAssetSetId"
+  }
+]
