@@ -1,13 +1,13 @@
 [
   {
-    "id": "combustion",
-    "name": "Combustion",
-    "imageAssetSetId": "combustionImageAssetSetId"
+    "id": "ignis",
+    "name": "Ignis",
+    "imageAssetSetId": "ignisImageAssetSetId"
   },
   {
-    "id": "steel",
-    "name": "Steel",
-    "imageAssetSetId": "steelImageAssetSetId"
+    "id": "metallum",
+    "name": "Metallum",
+    "imageAssetSetId": "metallumImageAssetSetId"
   },
   {
     "id": "terra",
@@ -15,9 +15,9 @@
     "imageAssetSetId": "terraImageAssetSetId"
   },
   {
-    "id": "ice",
-    "name": "Ice",
-    "imageAssetSetId": "iceImageAssetSetId"
+    "id": "crystallos",
+    "name": "Crystallos",
+    "imageAssetSetId": "crystallosImageAssetSetId"
   },
   {
     "id": "aqua",
@@ -35,8 +35,8 @@
     "imageAssetSetId": "aeroImageAssetSetId"
   },
   {
-    "id": "current",
-    "name": "Current",
-    "imageAssetSetId": "currentImageAssetSetId"
+    "id": "electrica",
+    "name": "Electrica",
+    "imageAssetSetId": "electricaImageAssetSetId"
   }
 ]
