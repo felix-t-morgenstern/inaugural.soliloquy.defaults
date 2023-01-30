@@ -33,6 +33,10 @@ public class Elements {
     public final static String ELECTRICA_NAME = "Electrica";
     public final static String ELECTRICA_IMAGE_ASSET_SET_ID = "electricaImageAssetSetId";
 
+    public final static String AETHER_ID = "aether";
+    public final static String AETHER_NAME = "Aether";
+    public final static String AETHER_IMAGE_ASSET_SET_ID = "aetherImageAssetSetId";
+
     public final static String[] ELEMENT_IDS = new String[] {
             IGNIS_ID,
             METALLUM_ID,
@@ -41,6 +45,7 @@ public class Elements {
             AQUA_ID,
             FLORA_ID,
             AERO_ID,
-            ELECTRICA_ID
+            ELECTRICA_ID,
+            AETHER_ID
     };
 }

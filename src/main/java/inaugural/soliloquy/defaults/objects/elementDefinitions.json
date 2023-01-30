@@ -38,5 +38,10 @@
     "id": "electrica",
     "name": "Electrica",
     "imageAssetSetId": "electricaImageAssetSetId"
+  },
+  {
+    "id": "aether",
+    "name": "Aether",
+    "imageAssetSetId": "aetherImageAssetSetId"
   }
 ]
